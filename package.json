@@ -1,11 +1,12 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
+	"author": "Mezy",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
+	},
+	"dependencies": {
+		"express": "^4.14.0"
 	},
 	"repository": {
 		"type": "git",
