@@ -4,6 +4,7 @@
 	"description": "freecode camp backend testing app",
 	"main": "server.js",
 	"keywords": ["freecodecamp", "backend", "testing"],
+	"version": "1.2.0",
 	"license": "MIT",
 	"scripts": {
 		"start": "node server.js"
