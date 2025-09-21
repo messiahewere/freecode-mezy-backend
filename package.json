@@ -3,6 +3,7 @@
 	"author": "Mezy Ewere",
 	"description": "freecode camp backend testing app",
 	"main": "server.js",
+	"keywords": ["freecodecamp", "backend", "testing"],
 	"scripts": {
 		"start": "node server.js"
 	},
