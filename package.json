@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Mezy",
+	"author": "Mezy Ewere",
+	"description": "freecode camp backend testing app",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
